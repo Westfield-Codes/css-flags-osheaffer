@@ -1,0 +1,16 @@
+.header {
+    text-align:center;
+}
+
+a {
+    display:block;
+    width:100%;
+    text-align:center;
+    padding-top:20px;
+}
+.flag {
+  width:1200px;
+  height:600px;
+  margin:auto;
+  border:1px solid black;
+}
